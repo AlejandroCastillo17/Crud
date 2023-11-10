@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>crear_usuario</title>
+	<title>editar usuario</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
@@ -61,6 +61,7 @@
 					<input type="hidden" name="id" value="<?php echo $fila ['id'] ?>">
 					<button type="submit" class="btn btn-dark"> Guardar </button>
 				</form>
+				<br>
 				<a href="usuarios.php">
 					<button type="button" class="btn btn-dark"> Volver </button>
 				</a>

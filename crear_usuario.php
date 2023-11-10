@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>crear_usuario</title>
+	<title>crear usuario</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
@@ -44,13 +44,14 @@
 			<div class="input-group-prepend">
 				<span class="input-group-text" id="basic-addon1">@</span>
 			</div>
-			<input type="text" class="form-control" placeholder="Email" aria-label="Username" aria-describedby="basic-addon1" placeholder="Email" name="email">
+			<input type="text" class="form-control" laceholder="Email" name="email">
 		</div>
 		<button type="submit" class="btn btn-dark"> Guardar </button>
 	</form>
-				<a href="usuarios.php">
-					<button type="button" class="btn btn-dark"> Volver </button>
-				</a>
+	<br>
+	<a href="usuarios.php">
+		<button type="button" class="btn btn-dark"> Volver </button>
+	</a>
 </div>
 
 <script type="text/javascript" src="js/bootstrap.js"></script>

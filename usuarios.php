@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>crear_usuario</title>
+	<title>usuarios</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
@@ -22,7 +22,8 @@
 
 			?>
 			<div class="botonera">
-				<a href="crear_usuario.php"> <button  type= "button" class="btn btn-dark"> Crear Usuario </button> </a> <br>
+				<a href="crear_usuario.php"> <button  type= "button" class="btn btn-dark"> Crear Usuario </button> </a> <br> <br>
+				<a href="index.php"> <button  type= "button" class="btn btn-dark"> Volver </button> </a> <br>
 				<table class="table">
 					<thead>
 						<tr>
